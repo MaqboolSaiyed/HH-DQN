@@ -57,7 +57,7 @@ The goal is to:
 - Python
 - NumPy
 - Matplotlib
-- TensorFlow / PyTorch (based on your implementation)
+- PyTorch 
 - Reinforcement Learning (Deep Q-Learning)
 - Optimization Techniques
 
